@@ -1,5 +1,3 @@
-# BlocksDS
-
 The documentation of BlocksDS is [here](https://blocksds.skylyrac.net/docs/).
 
 For an introduction to programming the Nintendo DS with BlocksDS, check
